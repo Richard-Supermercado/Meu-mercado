@@ -4,7 +4,7 @@ import sqlite3
 from datetime import datetime
 
 # Configuração inicial
-st.set_page_config(page_title="Meu Mercado", page_icon="🛒")
+
 
 # Função para conectar ao banco de dados
 def conectar_banco():
